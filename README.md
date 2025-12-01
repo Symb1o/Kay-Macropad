@@ -12,3 +12,6 @@ BOM:
 - 10x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
+
+Overall Hackpad 
+![image]https://github.com/Symb1o/Kay-Macropad/blob/main/image.png
