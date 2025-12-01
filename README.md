@@ -14,4 +14,4 @@ BOM:
 - 4x M3 Heatset
 
 Overall Hackpad 
-![image]https://github.com/Symb1o/Kay-Macropad/blob/main/image.png
+![image]Screenshot 2025-11-30 220205.png
