@@ -13,5 +13,6 @@ BOM:
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 
-Overall Hackpad 
+Overall Hackpad
+
 ![Macropad screenshot](./Screenshot 2025-11-30 220205.png)
