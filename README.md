@@ -15,4 +15,4 @@ BOM:
 
 Overall Hackpad
 
-![Macropad screenshot]([./Screenshot 2025-11-30 220205.png](https://github.com/Symb1o/Kay-Macropad/blob/main/Screenshot%202025-11-30%20220532.png))
+![Macropad screenshot](Screenshot%2025-11-30%220205.png)
