@@ -14,4 +14,4 @@ BOM:
 - 4x M3 Heatset
 
 Overall Hackpad 
-![image]Screenshot 2025-11-30 220205.png
+![Macropad screenshot](./Screenshot 2025-11-30 220205.png)
